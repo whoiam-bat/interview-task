@@ -1,7 +1,7 @@
 ## Get started
 * In folder `src/main/webapp/resources` run firstly `schema.sql` then `data.sql`
 * Clone this repo to your pc and connect to the created database from your IDE
-* In folder `src/main/resources` change this fields to yours data
+* In folder `src/main/resources/app.properties` change this fields to yours data
   `database.username= your username`
 
   `database.password= your password`
